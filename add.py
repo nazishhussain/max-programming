@@ -2,6 +2,6 @@
 num1= input('a')
 num2= input('b')
 #add two numbers
-sum= (num1) +(num2)
+sum= int(num1) +int(num2)
 #display sum
-print("sum of two numbers num1 and num2=",sum)
+print("sum of two numbers num(1) and num(2)=",sum)
