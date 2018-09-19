@@ -1,6 +1,6 @@
 #write a program to add 2 numbers
-num1= ('a')
-num2= ('b')
+num1= input('a')
+num2= input('b')
 #add two numbers
 sum= (num1) +(num2)
 #display sum
