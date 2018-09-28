@@ -4,12 +4,12 @@ count=0
 def myroll():
 	return random.randit(1,6)
 
-	while(counr<=100):
+	while(count<=100):
 		n=input("press r to roll a dice")
 		if (n=='r'):
 			r=myroll()
 			count=count+r
-			print("u got ",cont)
+			print("u got ",conut)
 
 			if(count==2):
 				count=37
